@@ -1,0 +1,16 @@
+{
+  "name": "sbexpress",
+  "version": "0.0.0",
+  "description": "A sample application based on express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sandbox",
+    "sample",
+    "express"
+  ],
+  "author": "Jean Ponchon <jean.ponchon@novadiscovery.com>",
+  "license": "MIT"
+}
