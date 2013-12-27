@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  font-size: 62.5%;
+}
+
+h1 {
+  font-weight: normal;
+  color: #ccc;
+  text-shadow: 1px 1px 0px rgba(0,0,0,1);
+}

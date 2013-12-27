@@ -12,5 +12,9 @@
     "express"
   ],
   "author": "Jean Ponchon <jean.ponchon@novadiscovery.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.4.7",
+    "jade": "~1.0.0"
+  }
 }
